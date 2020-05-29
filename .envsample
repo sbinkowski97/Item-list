@@ -1,2 +1,2 @@
-DB_USER=dbuser to atlas
-DB_PASSWORD=db password to atlas
+DB_ATLAS= your Atlas URI
+JWT_SECRET= your json web token secret key
