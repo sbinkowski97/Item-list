@@ -23,7 +23,7 @@ Z racji tego że jest domyślnie połączona z atlasem możę potrwać zanim si�
 ## Zaliczenie przedmiotu
 W związku z tym że nie udało mi się przekonwertować powyższej aplikacji na działanie z usługami cloud Azure pozwoliłem sobie użyć sample aplikacji microsoftu i na nie wykonać powyższe zadanie (Host aplikacji oraz połączenie z dodatkową usługą w tym przypadku AzureSQL)
 
-![image](https://imgur.com/a/TQYNzSs)
+![image](https://i.imgur.com/O6ijEKi.png)
 
 Całe zarządzanie aplikacją zostało wykonane za pomocą Visual Studio Community 2022 Integracja działa
 
